@@ -12,3 +12,5 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://coldw1nd.github.io/devops-docs/`.
+
+[Тестовая ссылка](missing-page.md)
